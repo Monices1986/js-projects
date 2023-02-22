@@ -1,2 +1,2 @@
 # js-projects
-Building simple projects to get more familiar with JavaScript coding
+Building simple projects to get more familiar with coding in JavaScript
